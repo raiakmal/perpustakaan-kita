@@ -1,0 +1,1 @@
+Buat databasenya dulu
